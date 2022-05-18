@@ -4,3 +4,7 @@
 |  Student 1 | Student 2  | Student 3  |
 | ------------ | ------------ | ------------ |
 | Lukas Van Dorpe |  Remco De Smedt  | Laurens Arnauts |
+
+ENV FILE:
+
+REACT_APP_BACKEND_BASE_URL=""
